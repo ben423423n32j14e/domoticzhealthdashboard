@@ -21,11 +21,11 @@ There are different sub severity levels within each definition, for example a ba
 
 Setup instructions:
 
-Install Node-Red
-Create a Flow called "Domoticz Health"
-Settings > "Manage palette" > Install, search for and install "node-red-dashboard"
-Import flow into "Domoticz Health" flow
-Double click the “Configuration” node:
+1) Install Node-Red
+2) Create a Flow called "Domoticz Health"
+3) Settings > "Manage palette" > Install, search for and install "node-red-dashboard"
+4) Import flow into "Domoticz Health" flow
+5) Double click the “Configuration” node:
 
 Fill out the Domoticz configuration, this is also where you can whitelist devices from being tagged as missing. There are a few example whitelisted devices which you should keep unless you add your own devices.
 Visit: http://ipaddress:1880/ui
