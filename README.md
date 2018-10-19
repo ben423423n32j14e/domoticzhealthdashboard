@@ -1,5 +1,7 @@
 Domoticz Health Dash is an advanced home automation health checker written in Node-Red.
 
+![Screenshot](screenshot.png)
+
 A web interface displays problems found throughout a home automation system using information from Domoticz.
 
 Problems are ordered and rated by severity:
