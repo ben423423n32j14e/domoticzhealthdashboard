@@ -1,7 +1,5 @@
 Domoticz Health Dash is an advanced home automation health checker written in Node-Red.
 
-![Screenshot](screenshot.png)
-
 A web interface displays problems found throughout a home automation system using information from Domoticz.
 
 Problems are ordered and rated by severity:
@@ -31,5 +29,7 @@ Setup instructions:
 
 Fill out the Domoticz configuration, this is also where you can whitelist devices from being tagged as missing. There are a few example whitelisted devices which you should keep unless you add your own devices.
 Visit: http://ipaddress:1880/ui
+
+![Screenshot](screenshot.png)
 
 The project was created out of a personal need to make sense of the huge amount of data available via Domoticz to see where problems are in the system and what needs my attention.
